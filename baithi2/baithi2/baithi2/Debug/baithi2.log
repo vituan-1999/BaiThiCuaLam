@@ -1,0 +1,4 @@
+﻿  baithi2.c
+C:\Users\Administrator\Desktop\learnGit\learnGit\baithi2\baithi2\baithi2\baithi2.c(60,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'int32_t *'
+C:\Users\Administrator\Desktop\learnGit\learnGit\baithi2\baithi2\baithi2\baithi2.c(23,1): warning C4133: 'initializing': incompatible types - from 'int32_t *' to 'char *'
+  baithi2.vcxproj -> C:\Users\Administrator\Desktop\learnGit\learnGit\baithi2\baithi2\Debug\baithi2.exe
